@@ -1,6 +1,6 @@
 ---
-title: Indivisible City
-timezone: UTC
+title: Indivisible Skagit
+timezone: America/Los_Angeles
 collections:
   posts:
     title: Posts
@@ -57,15 +57,15 @@ defaults:
   values:
     main-image: 
     mailchimp-form-embed: 
-subtitle: We are thousands of local citizens resisting the Trump agenda through civic
-  action.
-email: 
+subtitle: The Skagit branch of the Indivisible Movement. A group of citizens working
+  to resist the Trump agenda.
+email: indivisibleskagit@gmail.com
 baseurl: 
-url: 
+url: indivisibleskagit.org
 twitter_username: 
 facebook_username: 
 background-image: "/uploads/31773994174_c2e5706218_k.jpg"
-member-count: '100'
+member-count: 727
 footer-title: Spread the word. Help build a movement.
 markdown: kramdown
 gems:
