@@ -1,11 +1,11 @@
 ---
 title: 'Indivisible Skagit Meeting: May 24, 5:30pm'
-date: 2017-02-02 23:10:00 -08:00
+date: 2017-05-24 23:10:00 -07:00
 categories:
 - event
 tags:
 - meeting
-is featured: true
+is featured: false
 main-image: "/uploads/migrant%20leaders.jpg"
 event-start-date: 2017-05-24 11:30:00 -07:00
 event-end-date: 2017-05-24 19:00:00 -07:00
