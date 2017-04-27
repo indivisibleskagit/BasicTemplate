@@ -5,7 +5,7 @@ categories:
 - resources
 is featured: true
 main-image: "/uploads/Screen%20Shot%202017-02-28%20at%208.35.06%20AM.png"
-layout: page
+layout: post
 ---
 
 Spend 5 minutes, make 5 calls.
