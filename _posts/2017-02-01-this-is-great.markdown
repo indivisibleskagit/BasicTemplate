@@ -1,8 +1,7 @@
 ---
 title: 'Stop DeVos: Call Your Representatives!'
-date: 2017-02-02 02:20:00 Z
-categories:
-- action
+date: 2017-02-01 18:20:00 -08:00
+published: false
 main-image: "/uploads/32463091742_f40e779f22_k.jpg"
 call-script-text: |-
   Hi, my name is _________ and I'm one of Senator [Harris/Feinstein]'s constituents. My zip code is ______.
