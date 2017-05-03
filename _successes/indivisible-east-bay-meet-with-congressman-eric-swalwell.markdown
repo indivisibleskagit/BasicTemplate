@@ -1,8 +1,7 @@
 ---
-title: Indivisible East Bay meet with Congressman Eric Swalwell.
+title: success2
 date: 2017-02-06 14:07:00 -08:00
-main-image: "/uploads/indivisible-eb1.jpg"
+published: false
 layout: media-item
 ---
 
-Members of Indivisible East Bay were happy to meet with Congressman Eric Swalwell on Saturday!
