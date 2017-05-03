@@ -1,6 +1,8 @@
 ---
 title: Social Security and Medicare presentation
 date: 2017-05-03 16:50:00 -07:00
+categories:
+- event
 is featured: false
 event-start-date: 2017-05-17 18:30:00 -07:00
 event-end-date: 2017-05-17 20:00:00 -07:00
