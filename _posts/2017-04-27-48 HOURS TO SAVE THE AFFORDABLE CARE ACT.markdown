@@ -6,7 +6,7 @@ categories:
 tags:
 - call now
 - ACA
-is featured: true
+is featured: false
 call-script-text: |-
   SAMPLE TALKING POINTS FOR OFFICE VISITS/CALLS
 
