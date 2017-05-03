@@ -7,7 +7,7 @@ tags:
 - town hall
 is featured: false
 main-image: "/uploads/workers%20day.pdf"
-event-start-date: 2017-05-01 02:00:00 -07:00
+event-start-date: 2017-05-01 12:00:00 -07:00
 event-end-date: 2017-05-01 13:00:00 -07:00
 Location: |-
   Skagit County Superior Court
