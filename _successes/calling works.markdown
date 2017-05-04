@@ -5,8 +5,9 @@ published: false
 categories:
 - resources
 is featured: true
+main-image: "/uploads/17426094_10212508674135841_9036239192900691538_n.jpg"
 layout: post
 ---
 
 
-This graphic says it all, especially in a fairly conservative district. Calling our MoCs is an important way to have our voices heard! Thank Congressman Larsen for his NO vote!![17426094_10212508674135841_9036239192900691538_n.jpg](/uploads/17426094_10212508674135841_9036239192900691538_n.jpg)
+This graphic says it all, especially in a fairly conservative district. Calling our MoCs is an important way to have our voices heard! Thank Congressman Larsen for his NO vote!!
