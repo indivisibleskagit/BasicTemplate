@@ -3,7 +3,7 @@ title: Calling works
 date: 2017-04-27 13:25:00 -07:00
 published: false
 categories:
-- resources
+- successes
 is featured: true
 main-image: "/uploads/17426094_10212508674135841_9036239192900691538_n.jpg"
 layout: post
