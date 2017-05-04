@@ -1,7 +1,6 @@
 ---
 title: Calling works
 date: 2017-04-27 13:25:00 -07:00
-published: false
 categories:
 - successes
 is featured: true
