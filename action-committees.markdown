@@ -1,6 +1,7 @@
 ---
 title: Action Committees
 date: 2017-05-10 19:26:00 -07:00
+position: 2
 ---
 
 Indivisible Skagit has action committees working to target specific resistance areas with laser focus. These groups report out to the larger group when action is required. We recommend finding a topic that you are passionate about and joining the group.
