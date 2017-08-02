@@ -22,6 +22,7 @@ The following committees are led by dedicated members of Indivisible Skagit. The
 
 *ACLU People Power: Rob Coffey, *robcoffey@comcast.net*
 *Environment: Peggy Ratermann & Brenda Cunningham *ratermann.peggy@gmail.com*, *nativegarden@fidalgo.net*
+Labor: Janet McKinney *cedarwaxwings@gmail.com*
 *Security: Julia Hurd *julia@qsoup.net*
 *Social Security, Medicare Group: Kerry Knight *dibbs@earthlink.net*
 
