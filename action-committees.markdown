@@ -6,19 +6,19 @@ position: 1
 
 Indivisible Skagit has action committees working to target specific resistance areas with laser focus. These groups report out to the larger group when action is required. We recommend finding a topic that you are passionate about and joining the group.
 
-**Action Committee Contacts**
+Many of our groups have leaders that can be contacted through the Indivisible Skagit email. The following groups can be reached at indivisibleskagit@gmail.com
+
+Action Committee Contacts
+
+* Black Lives Matter, LGBTQIA+
+* Education
+* Elections
+* Immigration / Muslim Ban / Farmworkers Rights / People without Papers
+
 
 ACLU People Power: Rob Coffey, robcoffey@comcast.net
 
-Black Lives Matter, LGBTQIA+: indivisibleskagit@gmail.com 
-
-Education: indivisibleskagit@gmail.com
-
-Elections: indivisibleskagit@gmail.com
-
 Environment: Peggy Ratermann & Brenda Cunningham ratermann.peggy@gmail.com, nativegarden@fidalgo.net 
-
-Immigration / Muslim Ban / Farmworkers Rights / People without Papers: indivisibleskagit@gmail.com
 
 Security:  Julia Hurd julia@qsoup.net
 
