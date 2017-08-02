@@ -1,8 +1,0 @@
----
-title: test
-date: 2017-08-01 19:00:00 -07:00
-published: false
-is featured: true
----
-
-test test test
