@@ -1,5 +1,5 @@
 ---
-title: Indivisible Skagit Meeting
+title: Indivisible Skagit September Meeting
 date: 2017-08-09 21:38:00 -07:00
 categories:
 - event
