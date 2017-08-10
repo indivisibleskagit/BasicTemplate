@@ -1,6 +1,8 @@
 ---
 title: Indivisible Skagit Picnic
 date: 2017-08-09 21:28:00 -07:00
+categories:
+- event
 is featured: true
 event-start-date: 2017-08-26 13:00:00 -07:00
 event-end-date: 2017-08-26 17:00:00 -07:00
