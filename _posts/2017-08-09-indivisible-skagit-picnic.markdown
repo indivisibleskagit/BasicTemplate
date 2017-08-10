@@ -5,7 +5,7 @@ categories:
 - event
 event-start-date: 2017-08-26 13:00:00 -07:00
 event-end-date: 2017-08-26 17:00:00 -07:00
-Location: Maiben Park, Burlington
+Location: Maiben City Park, Burlington, WA 98233, USA
 Field name: 
 ---
 
