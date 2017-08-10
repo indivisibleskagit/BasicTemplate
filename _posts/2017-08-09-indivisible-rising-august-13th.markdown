@@ -1,6 +1,8 @@
 ---
 title: Indivisible Rising
 date: 2017-08-09 21:26:00 -07:00
+categories:
+- event
 event-start-date: 2017-08-13 12:00:00 -07:00
 Location: Maritime Heritage Park
 ---
