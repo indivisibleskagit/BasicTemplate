@@ -10,4 +10,4 @@ event-end-date: 2017-09-18 19:00:00 -07:00
 Location: Burlington Library
 ---
 
-Itinerary to be announced
+Sameer Ranade with the Washington Environmental Council will present "Effective Carbon Reduction Climate Policy to build a Just and Green Economy"
