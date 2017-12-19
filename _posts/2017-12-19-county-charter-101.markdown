@@ -1,6 +1,7 @@
 ---
 title: County Charter 101
 date: 2017-12-19 10:35:00 -08:00
+is featured: true
 event-start-date: 2018-02-21 17:30:00 -08:00
 event-end-date: 2018-02-21 19:30:00 -08:00
 Location: Burlington Public Libary
