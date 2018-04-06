@@ -13,3 +13,5 @@ layout: page
 ---
 
 April 16, 6 - 8 PM [Burlington Library](http://www.burlingtonwa.gov/)
+
+Margaret Colony and Ed West of Skagit League of Women Voters will offer the training. Refresh your knowledge, and receive on-line registration training.
