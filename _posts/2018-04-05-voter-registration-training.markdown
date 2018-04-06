@@ -1,7 +1,6 @@
 ---
 title: Voter Registration Training
 date: 2018-04-05 18:57:00 -07:00
-published: false
 categories:
 - voting
 tags:
