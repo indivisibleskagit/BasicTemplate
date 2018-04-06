@@ -8,3 +8,8 @@ layout: page
 ---
 
 April 9, 6-8:30 PM, Skagit PUD Aqua Room
+
+How is it done, and why does it matter to voters? Guest speakers Julie Anne Kempf and Linnea Hirst
+
+Refreshments at 6 pm,
+Presentation beginning at 6:30. 
