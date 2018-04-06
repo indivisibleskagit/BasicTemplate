@@ -57,8 +57,7 @@ defaults:
   values:
     main-image: 
     mailchimp-form-embed: 
-subtitle: The Skagit County Indivisible Movement. Citizens working locally to resist
-  the Trump agenda.
+subtitle: 'The Skagit County Indivisible Movement. '
 email: indivisibleskagit@gmail.com
 baseurl: 
 url: indivisibleskagit.org
