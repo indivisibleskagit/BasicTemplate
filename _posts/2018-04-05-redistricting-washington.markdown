@@ -7,4 +7,4 @@ Location: Skagit PUD
 layout: page
 ---
 
-6-8:30 PM, Skagit PUD Aqua Room
+April 9, 6-8:30 PM, Skagit PUD Aqua Room
