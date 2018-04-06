@@ -12,4 +12,4 @@ Location: Burlington Library
 layout: page
 ---
 
-6 - 8 PM [Burlington Library](http://www.burlingtonwa.gov/)
+April 16, 6 - 8 PM [Burlington Library](http://www.burlingtonwa.gov/)
