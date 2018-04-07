@@ -8,7 +8,7 @@ Indivisible Skagit has action committees working to target specific resistance a
 
 **Indivisible-led Action Committees**
 
-Many of our groups have leaders that can be contacted through the Indivisible Skagit email. The following groups can be reached at *indivisibleskagit@gmail.com*
+Many of our groups have leaders that can be contacted through the Indivisible Skagit email. The following groups can be reached at [info@indivisibleskagit.org](mailto:info@indivisibleskagit.org)
 
 * Black Lives Matter, LGBTQIA+
 * Education
@@ -20,10 +20,9 @@ Many of our groups have leaders that can be contacted through the Indivisible Sk
 
 The following committees are led by dedicated members of Indivisible Skagit. Their emails are listed below and should be used if you'd like to join those teams.
 
-* ACLU People Power: Rob Coffey, *robcoffey@comcast.net*
-* Environment: Peggy Ratermann & Brenda Cunningham *ratermann.peggy@gmail.com*, *nativegarden@fidalgo.net*
-* Labor: Janet McKinney *cedarwaxwings@gmail.com*
-* Security: Julia Hurd *julia@qsoup.net*
-* Social Security, Medicare Group: Kerry Knight *dibbs@earthlink.net*
-* Women’s issues lead contacts: Sloane Winkes *lswinkes@gmail.com*
-
+* ACLU People Power: Rob Coffey
+* Environment: Peggy Ratermann & Brenda Cunningham
+* Labor: Janet McKinney
+* Security: Julia Hurd
+* Social Security, Medicare Group: Kerry Knight
+* Women’s issues lead contacts: Sloane Winkes
