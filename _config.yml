@@ -57,7 +57,7 @@ defaults:
   values:
     main-image: 
     mailchimp-form-embed: 
-subtitle: Indivisible Organized for Skagit County
+subtitle: Indivisible Organized Locally for Skagit County
 email: info@indivisibleskagit.org
 baseurl: 
 url: indivisibleskagit.org
