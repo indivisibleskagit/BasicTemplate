@@ -8,7 +8,7 @@ Indivisible Skagit has action committees working to target specific resistance a
 
 **Indivisible-led Action Committees**
 
-Many of our groups have leaders that can be contacted through the Indivisible Skagit email. The following groups can be reached at [info@indivisibleskagit.org](mailto:info@indivisibleskagit.org).
+Many of our groups have leaders that can be contacted through the Indivisible Skagit email. The following groups can be reached at [info@indivisibleskagit.org](mailto:info@indivisibleskagit.org):
 
 * Black Lives Matter, LGBTQIA+
 * Education
