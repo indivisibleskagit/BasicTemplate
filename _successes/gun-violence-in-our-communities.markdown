@@ -8,6 +8,9 @@ tags:
 main-image: "/uploads/GunViolenceIsPreventable.jpg"
 ---
 
+Held March 19, 2018 5:45 - 8PM
+Burlington Public Library
+
 Speakers included:
 * Llyra Roe, Sedro Woolley High School student organizing Skagit County #marchforourlives
 * Survivors
