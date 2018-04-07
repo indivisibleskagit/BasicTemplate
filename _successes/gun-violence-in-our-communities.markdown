@@ -1,6 +1,10 @@
 ---
 title: Gun Violence in our Communities
 date: 2018-04-07 09:50:00 -07:00
+categories:
+- education
+tags:
+- guns
 main-image: "/uploads/GunViolenceIsPreventable.jpg"
 ---
 
