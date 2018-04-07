@@ -24,5 +24,3 @@ The following committees are led by dedicated members of Indivisible Skagit. The
 * Environment: Peggy Ratermann & Brenda Cunningham
 * Labor: Janet McKinney
 * Security: Julia Hurd
-* Social Security, Medicare Group: Kerry Knight
-* Women’s issues lead contacts: Sloane Winkes
