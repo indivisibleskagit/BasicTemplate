@@ -1,6 +1,6 @@
 ---
 title: Plastic Oceans Documentary
-date: 2018-04-07 16:27:00 -07:00
+date: 2018-04-05 03:00:00 -07:00
 event-start-date: 2018-04-26 19:00:00 -07:00
 event-end-date: 2018-04-26 22:00:00 -07:00
 layout: calendar
