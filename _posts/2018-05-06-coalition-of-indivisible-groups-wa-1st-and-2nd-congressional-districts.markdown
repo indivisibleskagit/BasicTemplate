@@ -1,6 +1,6 @@
 ---
 title: Coalition of Indivisible Groups Meet
-date: 2018-04-07 17:28:00 -07:00
+date: 2018-05-06 17:28:00 -07:00
 ---
 
 On April 3rd, Indivisible Skagit members Susan Bloomfield and Christine Kohnert met with a group referred to as the Coalition of Indivisible Groups-WA 1st and 2nd Congressional Districts. It includes various Indivisible and other resistance groups from Whatcom, Skagit and Snohomish Counties and Whidbey Island.
