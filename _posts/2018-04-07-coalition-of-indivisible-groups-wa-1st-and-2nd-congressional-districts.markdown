@@ -1,5 +1,5 @@
 ---
-title: Coalition of Indivisible Groups- WA 1st and 2nd Congressional Districts
+title: Coalition of Indivisible Groups Meet
 date: 2018-04-07 17:28:00 -07:00
 ---
 
