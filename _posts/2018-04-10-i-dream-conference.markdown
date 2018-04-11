@@ -3,6 +3,7 @@ title: I DREAM Conference
 date: 2018-04-10 19:43:00 -07:00
 event-start-date: 2018-05-04 08:30:00 -07:00
 event-end-date: 2018-05-04 15:00:00 -07:00
+Location: Skagit Valley College, Mount Vernon Campus
 layout: calendar
 ---
 
