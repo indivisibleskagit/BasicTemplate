@@ -1,5 +1,5 @@
 ---
-title: Indivisible Skagit Meeting (**new date/time**)
+title: Deep Issue Canvassing
 date: 2018-04-06 09:35:00 -07:00
 event-start-date: 2018-04-18 19:30:00 -07:00
 event-end-date: 2018-04-18 21:00:00 -07:00
@@ -7,7 +7,8 @@ Location: Burlington Public LIbrary
 layout: calendar
 ---
 
-Next Indivisible Skagit Meeting: April 18, 7:30-9:00 pm
+Indivisible Skagit Meeting
+April 18, 7:30-9:00 pm
 
 Burlington Library. “[Deep Issue Canvassing](https://ourfuture.org/20180301/yes-you-can-talk-to-strangers?link_id=1&can_id=37a7f352fad3afcb4c65463597b1c337&source=email-progressive-breakfast-yes-you-can-talk-to-strangers&email_referrer=email_309988&email_subject=progressive-breakfast-yes-you-can-talk-to-strangers)”
 
