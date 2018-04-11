@@ -1,6 +1,7 @@
 ---
 title: Mission Statement
 date: 2018-04-10 19:25:00 -07:00
+position: 5
 ---
 
 **Indivisible Skag## # it Mission Statement**
