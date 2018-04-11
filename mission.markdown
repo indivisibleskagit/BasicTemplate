@@ -1,6 +1,7 @@
 ---
 title: Mission
 date: 2018-04-10 19:25:00 -07:00
+published: false
 position: 5
 ---
 
