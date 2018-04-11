@@ -4,7 +4,7 @@ date: 2018-04-10 19:25:00 -07:00
 position: 5
 ---
 
-Indivisible Skagit Mission Statement
+# Indivisible Skagit Mission Statement
 
 Act as a nexus to engage our members with opportunities to take collective action based on their values;
 
