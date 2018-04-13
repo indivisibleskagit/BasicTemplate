@@ -1,6 +1,6 @@
 ---
 title: Civil Discourse in the Public Arena Kickoff Event
-date: 2018-04-05 14:21:00 -07:00
+date: 2018-04-16 14:21:00 -07:00
 layout: calendar
 ---
 
