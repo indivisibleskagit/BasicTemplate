@@ -1,6 +1,6 @@
 ---
 title: 'Indivisible Skagit Meeting: Deep Issue Canvassing'
-date: 2018-04-06 09:35:00 -07:00
+date: 2018-04-16 18:56:00 -07:00
 event-start-date: 2018-04-18 19:30:00 -07:00
 event-end-date: 2018-04-18 21:00:00 -07:00
 Location: Burlington Public LIbrary
