@@ -9,4 +9,4 @@ Location: |-
 layout: calendar
 ---
 
-How to reduce plastic in your life with the five R's (Refuse, Reduce, Reuse, Recycle and Rot).
+This workshop will present ways to make your life less plastic, and provide you with simple ideas to integrate the five R's into your life (Refuse, Reduce, Reuse, Recycle and Rot). Ideas will be shared among participants.
