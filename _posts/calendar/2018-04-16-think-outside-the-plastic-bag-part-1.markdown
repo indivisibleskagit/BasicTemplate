@@ -9,3 +9,4 @@ Location: |-
 layout: calendar
 ---
 
+Reduce plastic in your kitchen with reusable bags (small materials fee for snack/sandwich bags).
