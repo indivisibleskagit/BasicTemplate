@@ -7,5 +7,5 @@ Location: Lincoln Theatre, Mount Vernon
 layout: calendar
 ---
 
-Sponsored by: Children's Museum of Skagit, Lincoln Theatre, and\
-Skagit BAG BANd Wagon.
+In partnership with Children's Museum of Skagit, Lincoln Theatre, and\
+Skagit BAG BANd Wagon. Admission to this full length feature film is FREE.
