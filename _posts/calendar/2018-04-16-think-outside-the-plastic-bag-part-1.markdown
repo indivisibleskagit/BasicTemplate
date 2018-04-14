@@ -9,4 +9,4 @@ Location: |-
 layout: calendar
 ---
 
-Reduce plastic in your kitchen with reusable bags (small materials fee for snack/sandwich bags).
+This workshop will introduce ways to make your kitchen less plastic.  Every participant will be able to make I M Not Plastic Wrap, watch demonstrations of T-shirt and pillowcase tote bags and either make, purchase or get instructions for reusable snack and sandwich bags.  All projects will be demonstrated and will have take home instructions. (small materials fee for snack/sandwich bags)
