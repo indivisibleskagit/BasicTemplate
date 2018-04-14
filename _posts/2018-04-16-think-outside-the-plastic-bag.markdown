@@ -1,6 +1,6 @@
 ---
 title: Skagit BAG BANd Wagon
-date: 2018-04-06 18:53:00 -07:00
+date: 2018-04-16 18:53:00 -07:00
 layout: post
 ---
 
