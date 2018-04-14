@@ -9,3 +9,4 @@ Location: |-
 layout: calendar
 ---
 
+How to reduce plastic in your life with the five R's (Refuse, Reduce, Reuse, Recycle and Rot).
