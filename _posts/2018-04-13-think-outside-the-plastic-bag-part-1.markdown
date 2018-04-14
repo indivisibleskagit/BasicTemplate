@@ -9,3 +9,4 @@ Location: |-
 layout: calendar
 ---
 
+April 19, 2018 at 6:30 - 8:30 pm
