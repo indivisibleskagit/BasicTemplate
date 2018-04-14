@@ -1,6 +1,6 @@
 ---
 title: Island County Community Coalition Gathering
-date: 2018-04-05 19:10:00 -07:00
+date: 2018-04-16 18:25:00 -07:00
 event-start-date: 2018-04-21 09:00:00 -07:00
 event-end-date: 2018-04-21 15:30:00 -07:00
 Location: Coupeville High School, 501 S Main St, Coupeville, WA 98239
