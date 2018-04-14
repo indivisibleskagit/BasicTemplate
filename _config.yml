@@ -8,7 +8,7 @@ collections:
   representatives:
     title: Representatives
     output: false
-  _successes:
+  successes:
     title: Successes
     output: true
   uploads:
