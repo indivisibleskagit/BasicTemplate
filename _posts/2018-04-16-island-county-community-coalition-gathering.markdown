@@ -15,7 +15,7 @@ Featured speakers:
 
 David Barsamian, award winning author and radio broadcaster (Director of Alternative Radio) keynote speech “Building Alliances for Positive Change.”
 
-Dahr Jamail, interntionally renowned investigative journalist with Truthout, and winner of Izzy and Gelhorn awards, speaking on Climate Change.
+Dahr Jamail, internationally renowned investigative journalist with Truthout, and winner of Izzy and Gelhorn awards, speaking on Climate Change.
 
 Mark Dworkin and Melissa Young, Whidbey Island filmmakers showing their latest documentary, “Plane Truths,” on the expansion of the Navy in the Puget Sound.
 
