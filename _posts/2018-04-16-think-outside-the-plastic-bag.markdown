@@ -4,16 +4,7 @@ date: 2018-04-16 18:53:00 -07:00
 layout: post
 ---
 
-* "Think outside the Plastic Box" pt.1
-  April 19, 6:30 PM, [Skagit Valley Food Co-Op](http://www.skagitfoodcoop.com/)
-
-  Reduce plastic in your kitchen with reusable bags (small materials fee for snack/sandwich bags)
-
-
-* "[A Plastic Ocean: We need a WAVE of change](http://www.lincolntheatre.org/film/plastic-ocean-we-need-wave-change)"
-
-  April 26, 2018 at 7PM
-  Lincoln Theatre, Mount Vernon
+A campaign in Skagit County led by Carol Sullivan to ban single use plastic bags in Skagit Communities.
 
 * "Think outside the Plastic Box" pt.2
   May, 15, 2018 at 6:30 PM
