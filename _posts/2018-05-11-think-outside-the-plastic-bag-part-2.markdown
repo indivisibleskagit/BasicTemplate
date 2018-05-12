@@ -1,6 +1,6 @@
 ---
 title: Think Outside the Plastic Bag part 2
-date: 2018-05-05 20:47:00 -07:00
+date: 2018-05-11 19:12:00 -07:00
 event-start-date: 2018-05-15 18:30:00 -07:00
 event-end-date: 2018-05-15 20:30:00 -07:00
 Location: |-
