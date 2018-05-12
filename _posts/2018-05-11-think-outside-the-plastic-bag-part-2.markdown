@@ -9,4 +9,5 @@ Location: |-
 layout: calendar
 ---
 
+Tuesday, May 15 Skagit Valley Food Co-op 6:30 pm
 This workshop will present ways to make your life less plastic, and provide you with simple ideas to integrate the five R's into your life (Refuse, Reduce, Reuse, Recycle and Rot). Ideas will be shared among participants.
