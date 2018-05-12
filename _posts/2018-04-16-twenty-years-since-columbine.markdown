@@ -1,6 +1,7 @@
 ---
 title: Twenty Years Since Columbine
 date: 2018-04-16 18:40:00 -07:00
+published: false
 event-start-date: 2018-04-20 17:00:00 -07:00
 event-end-date: 2018-04-20 20:00:00 -07:00
 ---
