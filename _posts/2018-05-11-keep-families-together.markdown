@@ -1,5 +1,5 @@
 ---
-title: 'Keep Families Together: June 11'
+title: 'Detained! What does it mean for Families?: June 11'
 date: 2018-05-11 18:58:00 -07:00
 ---
 
