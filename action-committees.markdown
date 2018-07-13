@@ -10,10 +10,14 @@ Indivisible Skagit has action committees working to target specific resistance a
 
 Many of our groups have leaders that can be contacted through the Indivisible Skagit email. The following groups can be reached at [info@indivisibleskagit.org](mailto:info@indivisibleskagit.org):
 
-* Black Lives Matter, LGBTQIA+
+* Black Lives Matter, LGBTQIA\+
+
 * Education
+
 * Elections
+
 * Immigration / Muslim Ban / Farmworkers Rights / People without Papers
+
 * Religious Persecution & Rights / First Amendment Rights / Voting
 
 **Member-led Action Committees**
@@ -21,6 +25,9 @@ Many of our groups have leaders that can be contacted through the Indivisible Sk
 The following committees are led by dedicated members of Indivisible Skagit. Their emails are listed below and should be used if you'd like to join those teams.
 
 * ACLU People Power: Rob Coffey
+
 * Environment: Peggy Ratermann & Brenda Cunningham
-* Labor: Janet McKinney
+
+* Labor: [Janet McKinney](mailto:labordemworkgroup@gmail.com)
+
 * Security: Julia Hurd
