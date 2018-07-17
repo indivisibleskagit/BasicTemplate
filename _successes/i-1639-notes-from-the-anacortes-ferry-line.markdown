@@ -4,8 +4,6 @@ date: 2018-07-16 16:54:00 -07:00
 main-image: "/uploads/KathleenOGrady_onFerry.jpg"
 ---
 
-![KathleenOGrady_onFerry.jpg](/uploads/KathleenOGrady_onFerry.jpg)
-
 Kathleen O'Grady on the ferry
 
 During the maybe 60 hours over 14 days that I collected signatures for I-1639, I walked about 48 miles along the Anacortes and Guemes ferry lines and taking round trips on the Lopez-Orcas-Shaw and the Friday Harbor ferries.
