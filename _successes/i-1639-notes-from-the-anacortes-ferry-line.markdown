@@ -1,7 +1,7 @@
 ---
 title: I-1639 Notes From The Anacortes Ferry Line
 date: 2018-07-16 16:54:00 -07:00
-main-image: "/uploads/KathleenOGrady_onFerry.jpg"
+main-image: "/uploads/KathleenOGrady-cropped.jpg"
 layout: media-item
 ---
 
