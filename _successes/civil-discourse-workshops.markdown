@@ -12,4 +12,6 @@ Join us for an public meeting on Civil Discourse in Skagit County — whose job 
 
 Please check the Calendar page for dates and times of upcoming workshops over the next few months.
 
+[Civil Discourse Project Skill Building Events Poster V5.pdf](/uploads/Civil%20Discourse%20Project%20Skill%20Building%20Events%20Poster%20V5.pdf)
+
 More info: Wende Sanderson (360) 708-3147
