@@ -10,6 +10,6 @@ Effective Solutions That are Easy to Use:
 
 Join us for an public meeting on Civil Discourse in Skagit County—whose job is it, and how does it affect our community? We’ll hear from educational representatives, community organizations, the media and political representatives. Then, participation from the attendees — what’s important about the idea of Civil Discourse for Skagit County?
 
-Please check the Calendar page for upcoming workshops over the next few months.
+Please check the [Calendar page](http://www.indivisibleskagit.github.io./calendar.html) for upcoming workshops over the next few months.
 
 More info: Wende Sanderson (360) 708-3147
