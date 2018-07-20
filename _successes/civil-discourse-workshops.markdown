@@ -10,7 +10,7 @@ Effective Solutions That are Easy to Use:
 
 Join us for a public meeting on Civil Discourse in Skagit County — whose job is it, and how does it affect our community? We’ll hear from educational representatives, community organizations, the media and political representatives. Then, participation from the attendees — what’s important about the idea of Civil Discourse for Skagit County?
 
-Please check the Calendar page for dates and times of upcoming workshops over the next few months.
+Please check the Calendar page for dates and times of upcoming workshops that occur over the next few months.
 
 [Civil Discourse Project Skill Building Events Poster V5.pdf](/uploads/Civil%20Discourse%20Project%20Skill%20Building%20Events%20Poster%20V5.pdf)
 
