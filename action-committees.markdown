@@ -31,3 +31,5 @@ The following committees are led by dedicated members of Indivisible Skagit. The
 * Labor: [Janet McKinney](mailto:labordemworkgroup@gmail.com)
 
 * Security: Julia Hurd
+
+* Skagit County Home Rule Charter: Brenda Cunningham & Christie Stein ([website](http://www.HomeRuleSkagit.org))
